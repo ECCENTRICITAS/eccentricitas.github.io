@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Eccentricitās的个人网页"
+title                    : "ECCENTRICITĀS"
 title_separator          : "-"
 name                     : &name "Eccentricitās/Eccī"
-description              : &description "A Student"
+description              : # &description "A Student"
 url                      : https://eccentricitas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eccentricitas/eccentricitas.github.io"
@@ -23,11 +23,11 @@ repository               : "eccentricitas/eccentricitas.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Eccentricitās"
-  pronouns         : "他/he/him"  
-  bio              : "诗人握持"
-  location         : "Earth"
-  employer         : "这里填上八个字吧"
+  name             : "ECCENTRICITĀS"
+  pronouns         : # "他/he/him"  
+  bio              : "一个苦逼的高中牲"
+  location         : # "Earth"
+  employer         : # "这里填上八个字吧"
   uri              : # URL
   email            : "3784273719@qq.com" 
 
